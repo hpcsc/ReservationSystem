@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservationSystem", "ReservationSystem\ReservationSystem.csproj", "{54ADBB4D-94EE-42FA-9029-21E3BE83D765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{0A522B15-AF6E-456E-B5C1-DF4EAF9B98C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54ADBB4D-94EE-42FA-9029-21E3BE83D765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54ADBB4D-94EE-42FA-9029-21E3BE83D765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54ADBB4D-94EE-42FA-9029-21E3BE83D765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54ADBB4D-94EE-42FA-9029-21E3BE83D765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A522B15-AF6E-456E-B5C1-DF4EAF9B98C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A522B15-AF6E-456E-B5C1-DF4EAF9B98C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A522B15-AF6E-456E-B5C1-DF4EAF9B98C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A522B15-AF6E-456E-B5C1-DF4EAF9B98C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
